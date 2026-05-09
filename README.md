@@ -27,5 +27,8 @@ to me
 
 https://www.linkedin.com/in/akinwumi-bolaji-1280833a8
 
+- Portfolio
+ https://marsh-building-c04.notion.site/Jai-s-Automation-Portfolio-35b6b7862c1f801884cbc205beb9e015?source=copy_link
+
 ---
 *Based in Nigeria 🇳🇬 | Available for remote work*
