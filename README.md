@@ -17,7 +17,7 @@ work smarter using no-code tools.
 ## 📂 Projects
 | Project | Description |
 |--------|-------------|
-| [Haven Fashion Enquiry System](link-here)| Automated customer enquiry workflow — captures form submissions, logs to Google Sheets, and sends instant replies |
+| [Haven Fashion Enquiry System]https://github.com/jaibuildsflows/haven-fashion-enquiry| Automated customer enquiry workflow — captures form submissions, logs to Google Sheets, and sends instant replies |
 
 ## 📫 Let's Connect
 - LinkedIn: 
