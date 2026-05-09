@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jai 👋
 
-<!--
-**jaibuildsflows/jaibuildsflows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an automation builder learning to help businesses 
+work smarter using no-code tools.
 
-Here are some ideas to get you started:
+## 🔧 What I Build
+- Workflow automations with **n8n**
+- Customer enquiry management systems
+- Form-to-email automation pipelines
+- Google Sheets integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently
+- Building my automation portfolio
+- Learning and documenting real-world workflows
+- Open to freelance and volunteer projects
+
+## 📂 Projects
+| Project | Description |
+|--------|-------------|
+| [Haven Fashion Enquiry System](link-here)| Automated customer enquiry workflow — captures form submissions, logs to Google Sheets, and sends instant replies |
+
+## 📫 Let's Connect
+- LinkedIn: 
+Akinwumi Bolaji
+3:22 PM (0 minutes ago)
+to me
+
+https://www.linkedin.com/in/akinwumi-bolaji-1280833a8
+
+---
+*Based in Nigeria 🇳🇬 | Available for remote work*
